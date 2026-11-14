@@ -94,7 +94,7 @@ This file contains **recorded defects only**. It cannot support a true defect ra
 
 ## Author
 
-**[Adaeze Obasi]** — Data Analyst
+**Adaeze Obasi** - Data Analyst
 
 ## Credits
 
