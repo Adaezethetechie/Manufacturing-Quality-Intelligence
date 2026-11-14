@@ -11,4 +11,4 @@
 9. High-cost repair cases relative to peers — partitioned window `AVG` and illustrative threshold.
 10. Products with recurring defect records vs product-level mean — `COUNT`, CTE, window `AVG`.
 
-Run `sql/03_business_analysis.sql` to reproduce these analyses.
+Run `03_business_analysis.sql` to reproduce these analyses.
