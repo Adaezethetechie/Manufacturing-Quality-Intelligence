@@ -1,0 +1,4 @@
+inspection_method,defects,total_repair_cost
+Manual Testing,352,185178.29
+Visual Inspection,351,173412.98
+Automated Testing,297,149035.88

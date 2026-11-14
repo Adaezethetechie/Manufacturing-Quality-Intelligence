@@ -1,0 +1,4 @@
+defect_type,defects,total_repair_cost
+Structural,352,176923.85
+Functional,339,171905.58
+Cosmetic,309,158797.72
